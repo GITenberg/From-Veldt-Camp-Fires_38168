@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36106
     wikipedia: http://en.wikipedia.org/wiki/Henry_Bryden
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38168#From-Veldt-Camp-Fires
 gutenberg_issued: '2011-11-29'
 gutenberg_type: Text
 identifiers:
