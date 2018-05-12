@@ -1,0 +1,34 @@
+_repo: From-Veldt-Camp-Fires_38168
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryden, H. A. (Henry Anderson)
+    alias: Bryden, Henry Anderson
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '36106'
+    url: http://www.gutenberg.org/2009/agents/36106
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Bryden
+description: ''
+gutenberg_issued: '2011-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'South Africa -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: A secret of the Orange River -- The story of a tusk -- Jan Prinsloo's
+  kloof -- The bushman's fortune -- The conquest of Christina de Klerk -- A Christmas
+  in the veldt -- Their last trek -- The luck of Tobias De la Rey -- The Mahalapsi
+  Diamond -- A tragedy of the veldt -- Queen's service -- A Transvaal morning -- The
+  mystery of Hartebeest Fontein -- Charlie Thilmere's lion.
+title: From Veldt Camp Fires
+url: http://www.gutenberg.org/ebooks/38168
